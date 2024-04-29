@@ -37,7 +37,7 @@
 - 📫 Feel free to reach me out **daiduong040700@gmail.com**
 <!--Intro end-->
 
--  **Leetcode Profile **
+-  **Leetcode Profile**
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/daiduong040700/)
 
